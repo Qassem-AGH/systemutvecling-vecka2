@@ -13,3 +13,13 @@ Det innebär att jobba i små delar och testa steg för steg. Det betyder att pe
 
 Vattenfallsmodellen är lämpligt om personen vet exakt vad hen gör från början och vill inte ändra något.
 Agil metodik är lämpligt när personen inte har en specifik plan från början och när ämne kan ändras och man vill att prova hela tiden.
+
+2.Vad är ett Git-commit och varför är det viktigt?
+Beskriv ett verkligt scenario där Git hjälper dig undvika problem.
+
+Get commit= det är ett steg för att spara ändringar i projektet.
+Till exempel, när du arbetar i ett team och vill ändra något, sparar du dina ändringar och skriver en kommentar om det så att hela teamet kan veta om det och spåra ändringarna och varför de inträffade.
+Dess betydelse ligger i att om något fel uppstår kan man gå tillbaka, och som jag sa tidigare, när man arbetar i ett team håller sig alla informerade om utvecklingen.
+
+Verkligt scenario:
+Någon arbetar på en webbplats och plötsligt ändras färgerna eller designen utan att man vet varför eller vad som gick fel. Ett tidigare steg sparades dock med Git commit, så man kan enkelt återställa till föregående tillstånd.
