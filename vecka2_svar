@@ -1,3 +1,15 @@
 Kunskapskontroll Vecka 2
 Titel: Systemutveckling i praktiken + GitHub
 
+1.Beskriv skillnaden mellan vattenfallsmodellen och agil metodik.
+När bör man använda vilken, och varför?
+
+Vattenfallsmodellen:
+Den består av sekventiella steg: planering, design, kodning, sedan testning och slutligen klart.
+Det vill säga, allt görs i rätt ordning och är lämpligt om personen vet exakt vad hen gör från början.
+
+Agil metodik:
+Det innebär att jobba i små delar och testa steg för steg. Det betyder att personen kan förändra det när som helst, och det är lämpligt när personen inte har en specifik plan från början.
+
+Vattenfallsmodellen är lämpligt om personen vet exakt vad hen gör från början och vill inte ändra något.
+Agil metodik är lämpligt när personen inte har en specifik plan från början och när ämne kan ändras och man vill att prova hela tiden.
