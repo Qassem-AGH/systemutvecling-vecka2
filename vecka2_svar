@@ -14,6 +14,7 @@ Det innebär att jobba i små delar och testa steg för steg. Det betyder att pe
 Vattenfallsmodellen är lämpligt om personen vet exakt vad hen gör från början och vill inte ändra något.
 Agil metodik är lämpligt när personen inte har en specifik plan från början och när ämne kan ändras och man vill att prova hela tiden.
 
+-------------------------------
 2.Vad är ett Git-commit och varför är det viktigt?
 Beskriv ett verkligt scenario där Git hjälper dig undvika problem.
 
@@ -23,3 +24,17 @@ Dess betydelse ligger i att om något fel uppstår kan man gå tillbaka, och som
 
 Verkligt scenario:
 Någon arbetar på en webbplats och plötsligt ändras färgerna eller designen utan att man vet varför eller vad som gick fel. Ett tidigare steg sparades dock med Git commit, så man kan enkelt återställa till föregående tillstånd.
+
+------------------------------------
+
+3.Vad innebär samarbete med GitHub? Vad är pull requests, branches och merge?
+Git Hub: Det är där en person kan spara sin kod.
+
+Branch: Det är en kopia av projektet som man kan jobba med utan att påverka huvudprojektet.
+
+Pull Request:
+Efter att en branch är klar skickas en pull request för att lägga till något i huvudprojektet där alla kan läsa och kommentera ändringen
+
+Merge: 
+När pull-request är godkänd koppla koden samman med huvudprojektet.
+
